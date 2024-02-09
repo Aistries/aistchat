@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="AistChat"
+        android:textSize="170sp" />
+
+    <EditText
+        android:id="@+id/emailEditText"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:layout_centerInParent="true"
+        android:hint="username"
+        android:textColor="@color/white"
+        android:textColorHint="#332E2E" />
+
+    <EditText
+        android:id="@+id/passwordEditText"
+        android:layout_below="@+id/emailEditText"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:textColor="@color/white"
+        android:textColorHint="#332E2E"
+        android:hint="password"/>
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:layout_below="@id/passwordEditText"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/registerTV"
+        android:layout_width="wrap_content"
+        android:layout_height="48sp"
+        android:textColor="#EA9D2C"
+        android:text="Do not have an account? Register"
+        android:clickable="true"
+        android:layout_below="@id/loginButton"/>
+
+</RelativeLayout>

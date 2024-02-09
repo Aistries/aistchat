@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".SignupActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="AistChat"
+        android:textSize="170sp" />
+
+    <EditText
+        android:id="@+id/emailET"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:layout_centerInParent="true"
+        android:hint="Emai Address"
+        android:textColor="@color/white"
+        android:textColorHint="#4E4646" />
+
+    <EditText
+        android:id="@+id/passwordET"
+        android:layout_below="@+id/emailET"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:textColor="@color/white"
+        android:textColorHint="#4E4646"
+        android:hint="password"/>
+
+    <Button
+        android:id="@+id/signupButton"
+        android:layout_below="@id/passwordET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Signup"/>
+
+
+    <TextView
+        android:id="@+id/loginTV"
+        android:layout_width="wrap_content"
+        android:layout_height="48sp"
+        android:textColor="#EA9D2C"
+        android:text="Already have an account? Login"
+        android:clickable="true"
+        android:layout_below="@id/signupButton"/>
+
+</RelativeLayout>

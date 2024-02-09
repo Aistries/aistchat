@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+
+
+    <item
+        android:id="@+id/activities"
+        android:title="Live Stream" />
+    <item
+        android:id="@+id/record"
+        android:title="Record" />
+    <item
+        android:id="@+id/giftcard"
+        android:title="Gift Card" />
+    <item
+        android:id="@+id/ads"
+        android:title="Advertise" />
+
+
+</menu>

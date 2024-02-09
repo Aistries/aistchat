@@ -1,0 +1,279 @@
+{
+  "project_info": {
+    "project_number": "429977555848",
+    "firebase_url": "https://andati-industries-default-rtdb.firebaseio.com",
+    "project_id": "andati-industries",
+    "storage_bucket": "andati-industries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429977555848:android:908c4d5146b12825cf603d",
+        "android_client_info": {
+          "package_name": "com.aistries.aistriesaioa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429977555848-vv2l0n2m6fcpfniej0j8mmlg6otrshbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistries.aistriesaioa",
+            "certificate_hash": "aeb2968641a97a06bdba0f165caad5b5c989cb81"
+          }
+        },
+        {
+          "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKcBHmJOVb6ogr5d5ANZG6JsSxysW1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429977555848:android:5c2bc003a0d77949cf603d",
+        "android_client_info": {
+          "package_name": "com.aistries.andatimessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429977555848-obtr8g2qjql63vkqod730l9smj2pd0lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistries.andatimessaging",
+            "certificate_hash": "aeb2968641a97a06bdba0f165caad5b5c989cb81"
+          }
+        },
+        {
+          "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKcBHmJOVb6ogr5d5ANZG6JsSxysW1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8938759387570611~2708458548"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429977555848:android:b57dfb73e636a432cf603d",
+        "android_client_info": {
+          "package_name": "com.aistries.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429977555848-jca8nul59cgm0jcsabttio8k26pqip67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistries.musicplayer",
+            "certificate_hash": "aeb2968641a97a06bdba0f165caad5b5c989cb81"
+          }
+        },
+        {
+          "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKcBHmJOVb6ogr5d5ANZG6JsSxysW1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429977555848:android:eaa095b60fd8a5dccf603d",
+        "android_client_info": {
+          "package_name": "com.aistriesking.aistchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429977555848-ino5kcl7rt6ttr1un9b7sk4iuifm4pd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistriesking.aistchat",
+            "certificate_hash": "5866b0a678258b1ff49d5dc74d767b560398e0b6"
+          }
+        },
+        {
+          "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKcBHmJOVb6ogr5d5ANZG6JsSxysW1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429977555848:android:3d2a46e8aec6c606cf603d",
+        "android_client_info": {
+          "package_name": "com.aistriestech.pokealoans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429977555848-r61qjm4r24j6hecav2h5heav1m17i6fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistriestech.pokealoans",
+            "certificate_hash": "22b20e9a4204f185e6d5787d8cf29dc4041d5df5"
+          }
+        },
+        {
+          "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKcBHmJOVb6ogr5d5ANZG6JsSxysW1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429977555848:android:91c34f577d83d697cf603d",
+        "android_client_info": {
+          "package_name": "com.example.aistking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429977555848-hrlgc6ukvqs6lhnv67o6bpm131rj6m0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aistking",
+            "certificate_hash": "5866b0a678258b1ff49d5dc74d767b560398e0b6"
+          }
+        },
+        {
+          "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKcBHmJOVb6ogr5d5ANZG6JsSxysW1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429977555848:android:ea4b8e16db761fffcf603d",
+        "android_client_info": {
+          "package_name": "com.example.andatiindustries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429977555848-6k332su2lha52961h0qkcr0regmmnvug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andatiindustries",
+            "certificate_hash": "85257138097f9bef2663b1c4c76529ac0b769195"
+          }
+        },
+        {
+          "client_id": "429977555848-uksbji54g0jckjrd0qrhgblotb42tbas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andatiindustries",
+            "certificate_hash": "aeb2968641a97a06bdba0f165caad5b5c989cb81"
+          }
+        },
+        {
+          "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKcBHmJOVb6ogr5d5ANZG6JsSxysW1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429977555848-fo8p500p7n6gjh2movm373s1r0a8jc78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
